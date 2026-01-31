@@ -7,7 +7,7 @@ Esta es una API RESTful desarrollada con **ASP.NET Core Minimal APIs**. El proye
 
 ---
 
-## 🚀 Instrucciones para el Docente
+## 🚀 Instrucciones
 
 Para facilitar la revisión y asegurar que el proyecto funcione de inmediato en su equipo, siga estas instrucciones:
 
